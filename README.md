@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-📜 I'm a recent B.Tech Computer Science graduate from NSUT<br>💬 Ask me about java, spring boot, react<br>⚡ Fun fact I code
+📜 I'm a recent B.Tech Computer Science graduate from NSUT<br>💬 Ask me about java, spring boot, javascript, node, react<br>⚡ Fun fact I code
 
 ---
 [![](https://visitcount.itsvg.in/api?id=js-designs-321&icon=1&color=3)](https://visitcount.itsvg.in)
